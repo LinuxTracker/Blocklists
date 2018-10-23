@@ -1,6 +1,6 @@
 # List of IPs sending Hancitor malspam
 # After an attack, new IPs will be appended
-# test 2
+# test 3
 
 4.16.101.182 # medoc-healt.ear1.dallas1.level3.net
 5.89.22.195 # net-5-89-22-195.cust.vodafonedsl.it
