@@ -1,24 +1,24 @@
 # List of IPs sending Hancitor malspam
 #
-# Starting Oct 2018 new IPs will be appended 
-# to the bottom, each day that an attack occurs
+# Starting Oct 2018 new IPs will be appended at the bottom
+# each day that an attack occurs
 
 4.16.101.182 # medoc-healt.ear1.dallas1.level3.net
 5.89.22.195 # net-5-89-22-195.cust.vodafonedsl.it
-8.21.213.130 # (NXDOMAIN)
+8.21.213.130 # Level3 TX AS3356
 8.46.162.38 # Level3 CA|FL|LA AS3356
-12.25.2.162 # AT&A Carter Co Commissioners OK AS7018
-12.36.220.122 # (NXDOMAIN)
-12.41.153.74 # (NXDOMAIN)
+12.25.2.162 # AT&T Carter Co Commissioners OK AS7018
+12.36.220.122 # AT&T FL AS7018
+12.41.153.74 # AT&T  NJ AS7018
 12.43.81.154 # AT&T AL AS7018
 12.45.168.162 # AT&T TX AS7018
-12.50.12.34 # (NXDOMAIN)
+12.50.12.34 # AT&T TX/LA AS7018
 12.69.8.34 # AT&T / Preston Exploration LLC Spring TX AS7018
 12.71.215.234 # AT&T TN,US AS7018
 12.106.90.2 # AT&T TX/FL reveresurvial.com AS7018
 12.118.41.74 # mail.advantagers.com
-12.150.239.26 # AT&T 7018 AL,USA
-12.154.56.98 # (NXDOMAIN)
+12.150.239.26 # AT&T AS7018 AL,USA
+12.154.56.98 # AT&T /29-Benedictine College KS
 12.154.171.180 # AT&T NY|NH,US AS7018
 12.161.39.190 # AT&T FL AS7018
 12.162.128.222 # AT&T Acc-sat Nw Hotel Partners LLC TX AS7018
@@ -26,7 +26,7 @@
 12.186.237.244 # AT&T CA US AS7018
 12.192.193.186 # AT&T AL/FL AS7018
 12.196.128.171 # AT&T AS7018 Walden Security Charlotte NC,USA
-12.216.177.146 # (NXDOMAIN)
+12.216.177.146 # AT&T NJ AS7018
 12.220.10.98 # AT&T ACC-Patracorp MO|CA AS7018
 12.226.231.250 # AT&T AS7018 Quality Hardware Jax FL,US
 12.235.201.58 # AT&T AL/GA AS7018
@@ -54,10 +54,10 @@
 24.106.61.19 # rrcs-24-106-61-19.west.biz.rr.com
 24.111.1.67 # 24-111-1-67-static.midco.net
 24.116.113.74 # 24-116-113-74.cpe.cableone.net
-24.119.134.126 # 24-119-134-126.cpe.cableone.net.
+24.119.134.126 # 24-119-134-126.cpe.cableone.net
 24.119.166.10 # 24-119-166-10.cpe.cableone.net
 24.123.173.42 # rrcs-24-123-173-42.central.biz.rr.com
-24.129.150.98 # rrcs-24-129-150-98.se.biz.rr.com.
+24.129.150.98 # rrcs-24-129-150-98.se.biz.rr.com
 24.142.192.50 # rrcs-24-142-192-50.midsouth.biz.rr.com
 24.159.72.85 # 24-159-72-85.static.jcsn.tn.charter.com
 24.172.35.186 # rrcs-24-172-35-186.midsouth.biz.rr.com
@@ -93,15 +93,13 @@
 47.190.13.102 # static-47-190-13-102.dlls.tx.frontiernet.net
 47.190.52.75 # Frontier Comm TX/AZ AS5650
 50.27.155.34 # 50-27-155-34.com.sta.suddenlink.net
-50.35.17.34 # Frontier AS5650 WA,US
-50.38.131.250 # Frontier AS5650 AZ,US
+50.35.17.34 # Frontier WA AS5650
+50.38.131.250 # Frontier AZ AS5650
 50.73.242.50 # 50-73-242-50-ip-static.hfc.comcastbusiness.net
 50.75.129.98 # rrcs-50-75-129-98.nys.biz.rr.com
 50.76.14.185 # 50-76-14-185-static.hfc.comcastbusiness.net
-50.76.14.185 # 50-76-14-185-static.hfc.comcastbusiness.net
 50.76.68.94 # 50-76-68-94-static.hfc.comcastbusiness.net
 50.76.180.5 # 50-76-180-5-static.hfc.comcastbusiness.net
-50.76.180.6 # 50-76-180-6-static.hfc.comcastbusiness.net
 50.76.180.6 # 50-76-180-6-static.hfc.comcastbusiness.net
 50.76.215.241 # 50-76-215-241-static.hfc.comcastbusiness.net
 50.77.19.245 # 50-77-19-245-static.hfc.comcastbusiness.net
@@ -109,7 +107,7 @@
 50.77.254.1 # 50-77-254-1-static.hfc.comcastbusiness.net
 50.78.32.161 # 50-78-32-161-static.hfc.comcastbusiness.net
 50.78.130.206 # 50-78-130-206-static.hfc.comcastbusiness.net
-50.78.213.181 # 50-78-213-181-static.hfc.comcastbusiness.net.
+50.78.213.181 # 50-78-213-181-static.hfc.comcastbusiness.net
 50.79.28.89 # 50-79-28-89-static.hfc.comcastbusiness.net
 50.79.52.5 # 50-79-52-5-static.hfc.comcastbusiness.net
 50.79.70.243 # 50-79-70-243-static.hfc.comcastbusiness.net
@@ -123,20 +121,18 @@
 50.198.180.182 # 50-198-180-182-static.hfc.comcastbusiness.net
 50.201.134.50 # www.clhscadets.com
 50.201.223.204 # 50-201-223-204-static.hfc.comcastbusiness.net
-50.204.10.90 # 50-204-10-90-static.hfc.comcastbusiness.net.
 50.204.10.90 # 50-204-10-90-static.hfc.comcastbusiness.net
 50.204.18.30 # 50-204-18-30-static.hfc.comcastbusiness.net
 50.206.86.130 # 50-206-86-130-static.hfc.comcastbusiness.net
 50.225.140.58 # Comcast NJ/MD/UT/WV AS7922
 50.240.107.145 # 50-240-107-145-static.hfc.comcastbusiness.net
 50.241.109.25 # 50-241-109-25-static.hfc.comcastbusiness.net
-50.241.155.162 # 50-241-155-162-static.hfc.comcastbusiness.net.
+50.241.155.162 # 50-241-155-162-static.hfc.comcastbusiness.net
 50.242.168.2 # 50-242-168-2-static.hfc.comcastbusiness.net
 50.243.3.49 # 50-243-3-49-static.hfc.comcastbusiness.net
 50.243.12.73 # 50-243-12-73-static.hfc.comcastbusiness.net
 50.243.13.74 # mail.nhutah.org
 50.243.56.185 # 50-243-56-185-static.hfc.comcastbusiness.net
-50.243.105.66 # 50-243-105-66-static.hfc.comcastbusiness.net
 50.243.105.66 # 50-243-105-66-static.hfc.comcastbusiness.net
 50.243.142.145 # 50-243-142-145-static.hfc.comcastbusiness.net
 50.243.193.185 # 50-243-193-185-static.hfc.comcastbusiness.net
@@ -160,30 +156,27 @@
 50.255.193.233 # 50-255-193-233-static.hfc.comcastbusiness.net
 50.255.203.185 # 50-255-203-185-static.hfc.comcastbusiness.net
 52.144.63.34 # Alder Home Security Orem UT AS395599
-63.118.67.114 # (NXDOMAIN)
+63.118.67.114 # MCI NJ AS701
 63.142.59.182 # 63-142-59-182.client.mchsi.com
 63.142.196.118 # Public Utility Okanogan Co WA AS22608
 63.231.31.26 # host2.isnetworks.com
 63.233.194.130 # 63-233-194-130.dia.static.qwest.net
 64.19.210.198 # coloc.wasatchit.com
-64.25.84.18 # Prospeed Net AS26251 NH/MA,US
+64.25.84.18 # Prospeed Net NH/MA AS26251
 64.31.248.50 # 64.31.248.50.bektel.com
 64.40.243.82 # mx1.smilenow.com
 64.45.211.190 # fl-64-45-211-190.sta.embarqhsd.net
-64.53.38.125 # (NXDOMAIN)
+64.53.38.125 # Spirit Comm SC AS2711
 64.60.13.226 # email.bbnwlaw.com
 64.60.143.138 # 64-60-143-138.static-ip.telepacific.net
 64.61.172.230 # static-64-61-172-230.isp.broadviewnet.net
-64.61.172.230 # static-64-61-172-230.isp.broadviewnet.net
 64.62.60.154 # Integra Telecom Denver AS7385
-64.132.127.25 # Level3 TWC AS4243 AS3549 FL,US
+64.132.127.25 # Level3 TWC AS4243 FL AS3549
 64.141.113.50 # h64-141-113-50.bigpipeinc.com
-64.179.211.192 # Selectcom Telecom QE,CA AS40224
+64.179.211.192 # Selectcom Telecom QE AS40224 CA
 64.183.12.86 # rrcs-64-183-12-86.west.biz.rr.com
-64.251.158.197 # 64-251-158-197.fidnet.com MO 
+64.251.158.197 # 64-251-158-197.fidnet.com Fidelity MO AS11976
 65.28.104.143 # cpe-65-28-104-143.kc.res.rr.com
-65.28.104.143 # cpe-65-28-104-143.kc.res.rr.com
-65.36.85.46 # 65-36-85-46.static.grandenetworks.net
 65.36.85.46 # 65-36-85-46.static.grandenetworks.net
 65.36.123.196 # 65-36-123-196.dyn.grandenetworks.net
 65.60.113.202 # mail.mdhnetwork.com
@@ -195,8 +188,7 @@
 65.157.99.75 # Quest/Centurylink NJ/AZ AS209
 65.175.137.10 # mail.adgfuel.com
 65.218.249.250 # Verizon Biz FL/CA/NJ AS701
-65.246.254.106 # (NXDOMAIN)
-65.246.254.106 # (NXDOMAIN)
+65.246.254.106 # Verizon Biz MA AS701
 65.254.15.50 # fw-out.valleystream13.com
 66.21.114.99 # BellSouth AS6389 TennValeyRegionalHousingAuth MS,US
 66.32.38.41 # static-66-32-38-41.earthlinkbusiness.net
@@ -237,9 +229,9 @@
 68.15.228.124 # wsip-68-15-228-124.om.om.cox.net
 68.34.144.129 # c-68-34-144-129.hsd1.tn.comcast.net
 68.40.178.119 # c-68-40-178-119.hsd1.mi.comcast.net
-68.48.199.46 # c-68-48-199-46.hsd1.mi.comcast.net.
+68.48.199.46 # c-68-48-199-46.hsd1.mi.comcast.net
 68.65.105.92 # tsc-68-65-105-92.ded.bright.net
-68.112.41.142 # 68-112-41-142.static.stls.mo.charter.com.
+68.112.41.142 # 68-112-41-142.static.stls.mo.charter.com
 68.116.68.2 # 68-116-68-2.static.mdfd.or.charter.com
 68.119.229.151 # 68-119-229-151.dhcp.ahvl.nc.charter.com
 68.173.120.19 # cpe-68-173-120-19.nyc.res.rr.com
@@ -251,21 +243,21 @@
 68.236.205.98 # static-68-236-205-98.nwrk.east.verizon.net
 69.4.50.182 # 69-4-50-182.avtg.hctcnetworks.net
 69.11.104.192 # 69-11-104-192.nbfr.static.sasknet.sk.ca
-69.12.127.159 # (NXDOMAIN)
+69.12.127.159 # Pine Telephone OK AS8025
 69.15.124.81 # 69-15-124-81.customerip.birch.net
 69.27.48.150 # ip-69-27-48-150.slm.blueriver.net
 69.27.48.172 # ip-69-27-48-172.slm.blueriver.net
 69.36.88.210 # mail2.semicorp.com
 69.54.28.220 # rb-sip2-220.greenmountainaccess.net
-69.63.173.150 # Conterra AS32505 Gibko Nursery LA,US
+69.63.173.150 # Gibko Nursery - Conterra LA AS32505
 69.64.203.14 # 69.64.203.14.nyc.electricfiber.net
 69.67.101.131 # Fortis Communications CO AS26859
 69.70.18.148 # modemcable148.18-70-69.static.videotron.ca
 69.92.115.96 # 69-92-115-96.cpe.cableone.net
-69.128.215.202 # TDS thecollisionspecialist.com h69-128-215-202.lncswi.dedicated.static.tds.net WI AS4181
+69.128.215.202 # thecollisionspecialist.com TDS WI AS4181
 69.144.85.226 # host-69-144-85-226.static.bresnan.net
 69.161.91.237 # d-69-161-91-237.cpe.metrocast.net
-69.168.10.171 # Oxford Networks / Worldpath Inet Svc NH/MA AS21547
+69.168.10.171 # Oxford Networks / Worldpath NH/MA AS21547
 69.170.122.68 # client-69.170.122.68.skybeam.com
 69.179.140.245 # d13-245.rt-bras.wnvl.centurytel.net
 69.193.167.218 # rrcs-69-193-167-218.nyc.biz.rr.com
@@ -277,7 +269,7 @@
 70.55.226.153 # toroon63-1178067609.sdsl.bell.ca
 70.62.57.79 # rrcs-70-62-57-79.central.biz.rr.com
 70.62.85.98 # ptr->ws.mobilecomminc.com Spectrum/TWC NC AS11426
-70.62.179.154 # rrcs-70-62-179-154.central.biz.rr.com.
+70.62.179.154 # rrcs-70-62-179-154.central.biz.rr.com
 70.62.248.246 # rrcs-70-62-248-246.central.biz.rr.com
 70.88.80.100 # mail.sugar-creek.mo.us
 70.88.160.174 # 70-88-160-174-smc-nm.hfc.comcastbusiness.net
@@ -291,7 +283,6 @@
 70.94.0.154 # cpe-70-94-0-154.kc.res.rr.com
 70.102.68.117 # Integra Telecom UT,US AS7385
 70.165.74.172 # wsip-70-165-74-172.hr.hr.cox.net
-70.165.74.172 # wsip-70-165-74-172.hr.hr.cox.net
 70.167.51.117 # wsip-70-167-51-117.ks.ks.cox.net
 70.167.87.13 # wsip-70-167-87-13.mc.at.cox.net
 70.168.199.133 # wsip-70-168-199-133.br.br.cox.net
@@ -303,7 +294,7 @@
 71.14.25.46 # 71-14-25-46.static.dctr.al.charter.com
 71.15.218.215 # 71-15-218-215.dhcp.blng.mt.charter.com
 71.41.116.118 # rrcs-71-41-116-118.se.biz.rr.com
-71.45.198.186 # 071-045-198-186.biz.spectrum.com.
+71.45.198.186 # 071-045-198-186.biz.spectrum.com
 71.45.207.173 # 071-045-207-173.biz.spectrum.com
 71.65.56.222 # cpe-71-65-56-222.columbus.res.rr.com
 71.75.116.158 # cpe-71-75-116-158.carolina.res.rr.com
@@ -329,17 +320,17 @@
 72.87.93.93 # static-72-87-93-93.prvdri.fios.verizon.net
 72.93.244.154 # mail2.14churchstreet.com
 72.160.29.27 # 72-160-29-27.dyn.centurytel.net
-72.165.186.74 # (NXDOMAIN)
+72.165.186.74 # CenturyLink WY AS209
 72.214.129.135 # wsip-72-214-129-135.sv.om.cox.net
 72.215.138.182 # wsip-72-215-138-182.pn.at.cox.net
-72.250.178.134 # (NXDOMAIN)
+72.250.178.134 # Skylink Digital MT AS33501
 72.250.217.109 # JAB Wireless UT AS23205
 73.34.196.197 # c-73-34-196-197.hsd1.co.comcast.net
 73.60.8.238 # c-73-60-8-238.hsd1.ct.comcast.net
 73.63.17.35 # c-73-63-17-35.hsd1.ut.comcast.net
 73.111.169.174 # c-73-111-169-174.hsd1.il.comcast.net
 73.131.213.217 # c-73-131-213-217.hsd1.ut.comcast.net
-73.154.50.223 # c-73-154-50-223.hsd1.pa.comcast.net.
+73.154.50.223 # c-73-154-50-223.hsd1.pa.comcast.net
 73.157.76.101 # c-73-157-76-101.hsd1.wa.comcast.net
 73.161.105.233 # c-73-161-105-233.hsd1.mi.comcast.net
 73.204.111.182 # c-73-204-111-182.hsd1.fl.comcast.net
@@ -359,7 +350,7 @@
 74.102.118.148 # static-74-102-118-148.nwrknj.fios.verizon.net
 74.113.59.181 # 74_113_59_181.h5colo.h5colo.com
 74.121.33.54 # Pro Sys Designs BC CA AS26968
-74.143.250.210 # rrcs-74-143-250-210.central.biz.rr.com.
+74.143.250.210 # rrcs-74-143-250-210.central.biz.rr.com
 74.205.144.158 # 158-144-205-74.skybeam.com
 74.208.185.164 # u20171438.onlinehome-server.com
 74.214.53.76 # potomacsupply.com
@@ -377,7 +368,6 @@
 75.146.90.77 # 75-146-90-77-utah.hfc.comcastbusiness.net
 75.146.239.186 # mail.ctofphila.org
 75.147.85.189 # 75-147-85-189-Philadelphia.hfc.comcastbusiness.net
-75.147.85.189 # 75-147-85-189-Philadelphia.hfc.comcastbusiness.net
 75.148.3.134 # 75-148-3-134-WashingtonDC.hfc.comcastbusiness.net
 75.148.247.113 # 75-148-247-113-houston.hfc.comcastbusiness.net
 75.148.254.54 # 75-149-254-54-houston.hfc.comcastbusiness.net
@@ -389,11 +379,11 @@
 76.8.204.66 # customer.veracitycom.net
 76.70.31.65 # Bell CA Ontario AS577
 76.73.158.220 # dynamic-76-73-158-220.knology.net
-76.79.28.114 # rrcs-76-79-28-114.west.biz.rr.com.
+76.79.28.114 # rrcs-76-79-28-114.west.biz.rr.com
 76.124.248.251 # c-76-124-248-251.hsd1.pa.comcast.net
 76.189.202.187 # cpe-76-189-202-187.neo.res.rr.com
 76.190.43.50 # rrcs-76-190-43-50.central.biz.rr.com
-76.224.100.239 # (NXDOMAIN)
+76.224.100.239 # AT&T AL AS7018
 76.237.148.143 # adsl-76-237-148-143.dsl.chcgil.sbcglobal.net
 76.249.243.118 # AT&T MO/Western Oil TX AS7018
 81.43.73.211 # 211.red-81-43-73.staticip.rima-tde.net
@@ -413,11 +403,9 @@
 96.61.127.2 # h96-61-127-2.stmyga.dedicated.static.tds.net
 96.68.44.105 # 96-68-44-105-static.hfc.comcastbusiness.net
 96.71.142.22 # 96-71-142-22-static.hfc.comcastbusiness.net
-96.71.142.22 # 96-71-142-22-static.hfc.comcastbusiness.net
-96.71.159.97 # 96-71-159-97-static.hfc.comcastbusiness.net
 96.71.159.97 # 96-71-159-97-static.hfc.comcastbusiness.net
 96.82.158.217 # 96-82-158-217-static.hfc.comcastbusiness.net
-96.82.248.5 # 96-82-248-5-static.hfc.comcastbusiness.net.
+96.82.248.5 # 96-82-248-5-static.hfc.comcastbusiness.net
 96.82.248.185 # 96-82-248-185-static.hfc.comcastbusiness.net
 96.83.60.30 # 96-83-60-30-static.hfc.comcastbusiness.net
 96.84.215.1 # 96-84-215-1-static.hfc.comcastbusiness.net
@@ -432,7 +420,7 @@
 96.92.93.193 # 96-92-93-193-static.hfc.comcastbusiness.net
 96.94.199.37 # 96-94-199-37-static.hfc.comcastbusiness.net
 96.95.49.49 # 96-95-49-49-static.hfc.comcastbusiness.net
-96.95.159.33 # 96-95-159-33-static.hfc.comcastbusiness.net.
+96.95.159.33 # 96-95-159-33-static.hfc.comcastbusiness.net
 96.95.178.9 # 96-95-178-9-static.hfc.comcastbusiness.net
 96.95.225.170 # 96-95-225-170-static.hfc.comcastbusiness.net
 96.240.18.85 # static-96-240-18-85.nwrknj.fios.verizon.net
@@ -465,8 +453,8 @@
 99.250.239.64 # CPE0c473d34f863-CM0c473d34f860.cpe.net.cable.rogers.com
 100.8.229.98 # static-100-8-229-98.nwrknj.fios.verizon.net
 100.8.232.154 # static-100-8-232-154.nwrknj.fios.verizon.net
-103.248.22.6 # (NXDOMAIN)
-104.192.201.189 # 104.192.201.189.gofiber.tech.
+103.248.22.6 # MytekTrading AS55720 HK
+104.192.201.189 # 104.192.201.189.gofiber.tech
 104.201.90.210 # 104-201-90-210.client.mchsi.com
 104.249.229.82 # xplr-104-249-229-82.xplornet.com
 107.0.228.198 # 107-0-228-198-ip-static.hfc.comcastbusiness.net
@@ -493,22 +481,21 @@
 142.176.85.144 # hlfxns0169w-142-176-85-144.pppoe-dynamic.high-speed.ns.bellaliant.net
 142.217.200.139 # 142-217-200-139.telebecinternet.net
 146.115.63.226 # 146-115-63-226.s2834.c3-0.frm-ubr1.sbo-frm.ma.cable.rcncustomer.com
-152.160.35.34 # unknown.static.123.net
-155.99.70.195 # University of Utah AS210 AS17055 UT,US
+152.160.35.34 # unknown.static.123.net 2020Comm MI AS12129
+155.99.70.195 # University of Utah AS210 UT AS17055
 158.222.66.172 # COTC Connections OK AS22316
 159.180.236.145 # 145.236.180.159.in-addr.arpa.celeste.fr
 162.17.231.130 # 162-17-231-130-static.hfc.comcastbusiness.net
-162.104.96.249 # Century Link AS209 FL/AR,US
-162.216.203.208 # Newbreak Mgt AS55142 MS,US
+162.104.96.249 # Century Link FL/AR AS209
+162.216.203.208 # Newbreak Mgt MS AS55142
 162.218.105.173 # gyfb.daas.grncld.com
-162.222.233.38 # (NXDOMAIN)
+162.222.233.38 # AirLink OK AS27027
 162.246.139.3 # Fibernet Direct FL AS33132
-165.166.136.134 # (NXDOMAIN)
+165.166.136.134 # Spirit SC AS2711
 166.70.29.1 # 166-70-29-1.xmission.com
 169.55.251.141 # 8d.fb.37a9.ip4.static.sl-reverse.com
 172.14.159.90 # 172-14-159-90.lightspeed.brhmal.sbcglobal.net
 172.87.162.82 # rrcs-172-87-162-82.sw.biz.rr.com
-172.89.91.39 # cpe-172-89-91-39.socal.res.rr.com.
 172.89.91.39 # cpe-172-89-91-39.socal.res.rr.com
 172.117.56.38 # cpe-172-117-56-38.socal.res.rr.com
 172.223.78.227 # 172-223-078-227.dhcp.chtrptr.net
@@ -532,10 +519,10 @@
 173.165.129.137 # 173-165-129-137-utah.hfc.comcastbusiness.net
 173.183.213.54 # s173-183-213-54.ab.hsia.telus.net
 173.186.35.186 # h186.35.186.173.dynamic.ip.windstream.net
-173.209.154.162 # Rogers Communications QB/ON/NB AS812
-173.210.47.2 # static-173-210-47-2.ngn.onecommunications.net.
+173.209.154.162 # Rogers Communications QB/ON/NB AS812 CA
+173.210.47.2 # static-173-210-47-2.ngn.onecommunications.net
 173.219.61.189 # 173-219-61-189.alexcmtk01.com.sta.suddenlink.net
-173.219.81.251 # 173-219-81-251.chstcmtk02.com.sta.suddenlink.net.
+173.219.81.251 # 173-219-81-251.chstcmtk02.com.sta.suddenlink.net
 173.220.58.194 # ool-addc3ac2.static.optonline.net
 173.235.8.204 # static-173-235-8-204.cspire.com
 174.50.253.185 # c-174-50-253-185.hsd1.tn.comcast.net
@@ -544,11 +531,11 @@
 174.80.66.187 # 174-080-066-187.dhcp.chtrptr.net
 174.100.56.13 # cpe-174-100-56-13.neo.res.rr.com
 174.109.248.174 # cpe-174-109-248-174.nc.res.rr.com
-174.114.94.236 # Rogers Ontario CA AS812
+174.114.94.236 # Rogers ON AS812 CA
 174.229.129.82 # 82.sub-174-229-129.myvzw.com
 174.235.143.147 # 147.sub-174-235-143.myvzw.com
-184.67.195.30 # Shaw AS6327 BC,CA
-184.68.137.78 # (NXDOMAIN)
+184.67.195.30 # Shaw BC AS6327 CA
+184.68.137.78 # Shaw BC AS6327 CA
 184.71.42.34 # remote.moriyama-co.com
 184.74.31.10 # rrcs-184-74-31-10.nys.biz.rr.com
 184.164.182.232 # 184-164-182-232-dhcp.mia.fl.atlanticbb.net
@@ -568,44 +555,43 @@
 198.40.241.206 # 198-40-241-206.client.mchsi.com
 198.70.165.43 # 198-70-165-43.static.eastex.net
 199.6.38.172 # host-199-6-38-172.dsl.static.isoc.net
-199.10.29.18 # Gossamer Threads Inc Vancouver BC AS36483
+199.10.29.18 # Gossamer Threads Inc Vancouver BC AS36483 CA
 199.119.80.35 # gateway.inlandtruck.com
 199.167.123.146 # 199.167.123.146.hvdata.net
-199.227.4.218 # Xspedius Communications MO AS4323 / Level3 AS3549
+199.227.4.218 # Xspedius Communications MO AS4323
 200.104.58.195 # pc-195-58-104-200.cm.vtr.net
 201.229.68.245 # 201-229-68-245.setardsl.aw
-203.130.24.211 # super24-line-211.super.net.pk.
+203.130.24.211 # super24-line-211.super.net.pk
 204.116.91.18 # 204-116-91-18.dsl.g01.scches.spirittelecom.com
 204.186.244.210 # cpe-static-vinartdealerships-rtr-f0.sm.ptd.net
 204.195.154.167 # 204-195-154-167-static.mia.fl.atlanticbb.net
-205.169.166.22 # Century Link AS209 Douglas Co Schools CO,US
-206.18.165.129 # (NXDOMAIN)
+205.169.166.22 # Century Link CO AS209 Douglas Co Schools
+206.18.165.129 # Matheson Tri-Gas NJ AS36246
 206.40.111.53 # mail2.anser.com
-206.63.234.219 # Northwest Nexus - Dogear/Packet Partners WA AS1982 - AS20271
+206.63.234.219 # Northwest Nexus AS1982 Dogear/Packet Partners WA AS20271
 206.79.195.23 # 206-79-195-23.as63182.net
 206.81.132.2 # mail.interwestsupply.net
 206.125.155.198 # 206-125-155-198.ftth.wabash.net
 206.174.199.34 # Shaw rx0so-pcc-communications-inc.cg.bigpipeinc.com
 206.217.6.169 # cpe6-168.sweetwaterhsa.com
-207.119.95.83 # 207-119-95-83.stat.centurytel.net.
+207.119.95.83 # 207-119-95-83.stat.centurytel.net
 207.119.219.225 # 207-119-219-225.dyn.centurytel.net
-207.173.153.4 # Integra Telecom AS7385 UT,US
-207.173.153.189 # (NXDOMAIN)
-207.173.159.68 # Integra Telecom AS7385 CA/ID,USA
+207.173.153.4 # Integra Telecom UT AS7385
+207.173.153.189 # Integra Telecom UT AS7385
+207.173.159.68 # Integra Telecom CA/ID AS7385
 207.194.39.194 # host194.39.194.207.in-addr.arpa
-207.201.210.82 # Xspedius Communications MO AS4323 / Level3 AS3549
+207.201.210.82 # Xspedius Communications MO AS4323 Level3 AS3549
 207.237.12.116 # 207-237-12-116.ny.subnet.cable.rcncustomer.com
 208.41.239.26 # 208-41-239-26.client.dsl.net
 208.67.102.180 # GCEC Grayson Collin Comm Tech TX AS20042
-208.85.181.217 # Peak Internet AS16654 CO,US
+208.85.181.217 # Peak Internet CO AS16654
 208.88.67.188 # cust-208-88-67-188.bluebirdwireless.com
 208.118.138.224 # a224-.blockb-138.stargate.ca
-208.181.214.155 # TELUS remote.pacwestsystems.com BC,CA AS852
+208.181.214.155 # TELUS remote.pacwestsystems.com BC AS852 CA
 209.23.243.106 # 209-23-243-106-ip-static.hfc.comcastbusiness.net
 209.64.58.226 # AT&T/WIPOTEC-OCS Checkweighers Lawrenceville GA AS7018
-209.83.63.58 # unassigned.norlight.net
+209.83.63.58 # unassigned.norlight.net Windstream AS7029
 209.118.33.114 # Verizon Biz NJ AS2828
-209.142.191.160 # 209-142-191-160.stat.centurytel.net
 209.142.191.160 # 209-142-191-160.stat.centurytel.net
 209.234.187.218 # 209-234-187-218.static.ctl.one
 213.120.119.168 # 213-120-119-168.in-addr.btopenworld.com
@@ -616,9 +602,9 @@
 216.37.70.43 # net-216-37-70-43.in-addr.worldspice.net
 216.57.209.45 # 216-57-209-45.fibercloud.com
 216.82.193.52 # 216-82-193-52.static.grandenetworks.net
-216.130.144.155 # HC Cable OPCO / NuLink GA,US AS11693
-216.139.132.226 # (NXDOMAIN)
-216.165.174.134 # TDS mail.cmgmetals.com (Coated Metals Group) AS4181
+216.130.144.155 # HC Cable OPCO / NuLink GA AS11693
+216.139.132.226 # New York Connect NY AS22136
+216.165.174.134 # TDS mail.cmgmetals.com Coated Metals Group AS4181
 216.165.235.227 # 216-165-235-227.championbroadband.com
 216.174.116.246 # reverse.techspace.com
 216.186.201.189 # dynamic-216-186-201-189.knology.net
@@ -630,10 +616,10 @@
 216.215.119.34 # 34.119.215.216.static.logixcom.net
 216.218.189.211 # Hurricane Electric CA US AS6939
 216.240.61.134 # 216-240-61-134.aerioconnect.net
-216.255.244.66 # Ocala Electric AS3044 exchange.fiveninesonline.net FL,US
+216.255.244.66 # exchange.fiveninesonline.net Ocala Electric FL AS3044
 216.255.247.50 # remote.agriconequipment.com
 217.155.10.198 # 217-155-10-198.dsl.in-addr.zen.co.uk
-218.197.8.26 # Changjiang Professional College CN AS4538
+218.197.8.26 # Changjiang Professional College AS4538 CN
 
 # 10/2/2018 run
 23.240.119.240 # cpe-23-240-119-240.socal.res.rr.com
@@ -649,7 +635,7 @@
 70.184.28.50 # COX-70-184-28-50-static.coxinet.net
 
 # 10/9/2018 run
-45.251.47.53 # (NXDOMAIN)
+45.251.47.53 # RapidScale TX AS63128
 75.83.36.11 # cpe-75-83-36-11.socal.res.rr.com
 72.180.164.168 # 072-180-164-168.res.spectrum.com
 74.122.207.48 # 74-122-207-48.cyteworks.com
@@ -658,7 +644,7 @@
 # 10/10/2018 run
 66.211.220.226 # 66-211-220-226.static.velocity.net
 207.173.152.26 # corpmail01.splat.com
-64.136.152.58 # (NXDOMAIN)
+64.136.152.58 # Aerioconnect CA AS10993
 174.235.3.239 # 239.sub-174-235-3.myvzw.com
 
 # 10/17/2018 run
@@ -673,12 +659,12 @@
 24.229.13.112 # cpe-static-raysautorepair-rtr.cmts.mlf.ptd.net
 98.173.249.186 # mail.nrha.com
 24.90.116.23 # cpe-24-90-116-23.nyc.res.rr.com
-169.203.234.5 # (NXDOMAIN)
-74.205.208.234 # (NXDOMAIN)
+169.203.234.5 # Bureau of Indian Education DC/NM AS22920
+74.205.208.234 # Fibernetics ON AS36493 CA
 199.190.54.209 # 209-54-190-199.cust.rcwmoab.com
 97.84.232.58 # 97-84-232-58.dhcp.sgnw.mi.charter.com
 173.21.96.58 # 173-21-96-58.client.mchsi.com
-207.251.101.210 # (NXDOMAIN)
+207.251.101.210 # Stealth Comm NY AS8002
 209.23.224.34 # 209-23-224-34-ip-static.hfc.comcastbusiness.net
 72.54.55.161 # 72-54-55-161.customerip.birch.net
 192.119.243.138 # ecfpdmail.com
