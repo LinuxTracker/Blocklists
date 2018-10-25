@@ -668,3 +668,16 @@
 209.23.224.34 # 209-23-224-34-ip-static.hfc.comcastbusiness.net
 72.54.55.161 # 72-54-55-161.customerip.birch.net
 192.119.243.138 # ecfpdmail.com
+
+# 10/24/2018 run
+216.201.131.94 # 216-201-131-94.static.logixcom.net
+108.29.37.139 # static-108-29-37-139.nycmny.fios.verizon.net
+172.90.78.15 # cpe-172-90-78-15.socal.res.rr.com
+24.172.91.210 # rrcs-24-172-91-210.se.biz.rr.com
+71.176.69.15 # static-71-176-69-15.syrcny.fios.verizon.net
+205.161.30.61 # ip-205-161-30-61.nckcn.com
+24.214.39.66 # static-24-214-39-66.knology.net
+96.38.70.165 # 96-38-70-165.static.jcsn.tn.charter.com
+172.72.98.53 # cpe-172-72-98-53.carolina.res.rr.com
+47.23.64.75 # ool-2f17404b.static.optonline.net
+208.114.128.19 # xplr-208-114-128-19.xplornet.com
