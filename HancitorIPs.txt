@@ -681,3 +681,9 @@
 172.72.98.53 # cpe-172-72-98-53.carolina.res.rr.com
 47.23.64.75 # ool-2f17404b.static.optonline.net
 208.114.128.19 # xplr-208-114-128-19.xplornet.com
+
+# 10/29/2018 run
+205.204.44.18 # (NXDOMAIN)
+69.15.4.50 # 69-15-4-50.customerip.birch.net
+174.82.132.169 # 174-082-132-169.dhcp.chtrptr.net
+173.167.51.106 # 173-167-51-106-cpennsylvania.hfc.comcastbusiness.net
