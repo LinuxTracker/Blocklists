@@ -696,3 +696,11 @@
 75.177.137.77 # 075-177-137-077.res.spectrum.com
 71.14.210.162 # 71-14-210-162.static.stls.mo.charter.com
 73.87.63.199 # c-73-87-63-199.hsd1.dc.comcast.net
+
+# 12/4/2018 run
+69.169.160.52 # 69.169.160.52.static.ip.veracitynetworks.com
+97.75.167.234 # (NXDOMAIN)
+205.178.22.99 # (NXDOMAIN)
+69.92.125.210 # 69-92-125-210.cpe.cableone.net
+50.126.48.178 # (NXDOMAIN)
+74.73.49.59 # cpe-74-73-49-59.nyc.res.rr.com
