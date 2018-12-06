@@ -704,3 +704,9 @@
 69.92.125.210 # 69-92-125-210.cpe.cableone.net
 50.126.48.178 # (NXDOMAIN)
 74.73.49.59 # cpe-74-73-49-59.nyc.res.rr.com
+
+# 12/5/2018 run
+162.219.135.46 # dynamic-162-219-135-46.hopitelecom.net
+107.191.204.52 # 107-191-204-52.rallstech.org
+108.53.160.226 # static-108-53-160-226.nwrknj.fios.verizon.net
+98.115.213.30 # static-98-115-213-30.phlapa.fios.verizon.net
