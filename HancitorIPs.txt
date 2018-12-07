@@ -710,3 +710,6 @@
 107.191.204.52 # 107-191-204-52.rallstech.org
 108.53.160.226 # static-108-53-160-226.nwrknj.fios.verizon.net
 98.115.213.30 # static-98-115-213-30.phlapa.fios.verizon.net
+
+# 12/6/2018 run
+162.219.92.194 # (NXDOMAIN)
