@@ -713,3 +713,6 @@
 
 # 12/6/2018 run
 162.219.92.194 # (NXDOMAIN)
+
+# 12/10/2018 run
+216.201.151.44 # mail.griffingnetwork.com
