@@ -716,3 +716,8 @@
 
 # 12/10/2018 run
 216.201.151.44 # mail.griffingnetwork.com
+
+# 12/11/2018 run
+76.80.142.82 # rrcs-76-80-142-82.west.biz.rr.com
+74.143.246.98 # rrcs-74-143-246-98.central.biz.rr.com
+50.248.222.17 # 50-248-222-17-static.hfc.comcastbusiness.net
