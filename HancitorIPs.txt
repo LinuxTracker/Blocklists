@@ -721,3 +721,6 @@
 76.80.142.82 # rrcs-76-80-142-82.west.biz.rr.com
 74.143.246.98 # rrcs-74-143-246-98.central.biz.rr.com
 50.248.222.17 # 50-248-222-17-static.hfc.comcastbusiness.net
+
+# 12/12/2018 run
+64.60.100.178 # 64-60-100-178.static-ip.telepacific.net
