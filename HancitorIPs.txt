@@ -724,3 +724,6 @@
 
 # 12/12/2018 run
 64.60.100.178 # 64-60-100-178.static-ip.telepacific.net
+
+# 12/13/2018 run
+65.36.10.8 # 65-36-10-8.static.grandenetworks.net
