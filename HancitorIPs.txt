@@ -727,3 +727,7 @@
 
 # 12/13/2018 run
 65.36.10.8 # 65-36-10-8.static.grandenetworks.net
+
+# 12/17/2018 run
+66.29.170.94 # 66.29.170.94.static.utbb.net
+96.92.84.209 # 96-92-84-209-static.hfc.comcastbusiness.net
