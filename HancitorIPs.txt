@@ -731,3 +731,7 @@
 # 12/17/2018 run
 66.29.170.94 # 66.29.170.94.static.utbb.net
 96.92.84.209 # 96-92-84-209-static.hfc.comcastbusiness.net
+
+# 12/18/2018 run
+97.112.0.80 # 97-112-0-80.chcg.centurylink.net
+50.240.14.201 # 50-240-14-201-static.hfc.comcastbusiness.net
