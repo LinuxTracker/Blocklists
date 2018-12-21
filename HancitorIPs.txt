@@ -735,3 +735,7 @@
 # 12/18/2018 run
 97.112.0.80 # 97-112-0-80.chcg.centurylink.net
 50.240.14.201 # 50-240-14-201-static.hfc.comcastbusiness.net
+
+# 12/20/2018 run
+131.148.64.202 # 131-148-064-202.biz.spectrum.com
+63.88.12.34 # host34.kwcps.k12.va.us
