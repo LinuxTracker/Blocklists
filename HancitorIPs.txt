@@ -746,3 +746,7 @@
 207.162.190.11 # fttu-190-11.vci.net
 97.105.164.46 # (NXDOMAIN)
 107.84.0.147 # (NXDOMAIN)
+
+# 1/23/2019 run
+208.105.238.42 # barracuda.arcon.org
+69.70.104.146 # modemcable146.104-70-69.static.videotron.ca
