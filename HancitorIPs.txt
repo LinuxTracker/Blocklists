@@ -750,3 +750,7 @@
 # 1/23/2019 run
 208.105.238.42 # barracuda.arcon.org
 69.70.104.146 # modemcable146.104-70-69.static.videotron.ca
+
+# 1/28/2019 run
+96.38.88.18 # 96-38-88-18.static.jcsn.tn.charter.com
+206.81.171.229 # (NXDOMAIN)
