@@ -754,3 +754,6 @@
 # 1/28/2019 run
 96.38.88.18 # 96-38-88-18.static.jcsn.tn.charter.com
 206.81.171.229 # (NXDOMAIN)
+
+# 2/5/2019 run
+50.251.73.129 # 50-251-73-129-static.hfc.comcastbusiness.net
