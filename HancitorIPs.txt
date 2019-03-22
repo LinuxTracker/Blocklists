@@ -757,3 +757,6 @@
 
 # 2/5/2019 run
 50.251.73.129 # 50-251-73-129-static.hfc.comcastbusiness.net
+
+# 3/21/2019 run
+162.248.4.247 # server.reganam.com
