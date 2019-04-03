@@ -760,3 +760,10 @@
 
 # 3/21/2019 run
 162.248.4.247 # server.reganam.com
+
+# 4/2/2019 run
+66.231.236.122 # (NXDOMAIN)
+72.24.30.206 # 72-24-30-206.cpe.cableone.net
+73.217.104.162 # c-73-217-104-162.hsd1.co.comcast.net
+71.45.195.77 # 071-045-195-077.biz.spectrum.com
+23.24.20.222 # 23-24-20-222-static.hfc.comcastbusiness.net
