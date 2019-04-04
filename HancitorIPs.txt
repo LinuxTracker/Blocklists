@@ -767,3 +767,8 @@
 73.217.104.162 # c-73-217-104-162.hsd1.co.comcast.net
 71.45.195.77 # 071-045-195-077.biz.spectrum.com
 23.24.20.222 # 23-24-20-222-static.hfc.comcastbusiness.net
+
+# 4/3/2019 run
+172.91.194.250 # cpe-172-91-194-250.socal.res.rr.com
+12.198.46.226 # (NXDOMAIN)
+50.236.92.146 # 50-236-92-146-static.hfc.comcastbusiness.net
