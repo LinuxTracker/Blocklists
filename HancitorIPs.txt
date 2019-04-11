@@ -772,3 +772,9 @@
 172.91.194.250 # cpe-172-91-194-250.socal.res.rr.com
 12.198.46.226 # (NXDOMAIN)
 50.236.92.146 # 50-236-92-146-static.hfc.comcastbusiness.net
+
+# 4/10/2019 run
+71.203.140.87 # c-71-203-140-87.hsd1.fl.comcast.net
+64.178.243.177 # 64-178-243.dsl.farmerstel.com
+162.155.130.174 # rrcs-162-155-130-174.central.biz.rr.com
+209.198.52.231 # mccdnshost.com
