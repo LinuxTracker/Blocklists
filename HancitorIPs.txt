@@ -778,3 +778,7 @@
 64.178.243.177 # 64-178-243.dsl.farmerstel.com
 162.155.130.174 # rrcs-162-155-130-174.central.biz.rr.com
 209.198.52.231 # mccdnshost.com
+
+# 5/21/2019 run
+67.76.178.139 # nj-67-76-178-139.sta.embarqhsd.net
+192.230.171.163 # (NXDOMAIN)
