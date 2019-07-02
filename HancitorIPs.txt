@@ -782,3 +782,8 @@
 # 5/21/2019 run
 67.76.178.139 # nj-67-76-178-139.sta.embarqhsd.net
 192.230.171.163 # (NXDOMAIN)
+
+# 7/1/2019 run
+50.241.196.137 # mail.tpainmg.com
+50.238.244.138 # (NXDOMAIN)
+174.60.17.241 # c-174-60-17-241.hsd1.pa.comcast.net
