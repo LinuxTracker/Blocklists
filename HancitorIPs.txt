@@ -787,3 +787,6 @@
 50.241.196.137 # mail.tpainmg.com
 50.238.244.138 # (NXDOMAIN)
 174.60.17.241 # c-174-60-17-241.hsd1.pa.comcast.net
+
+# 7/3/2019 run
+50.238.185.238 # 50-238-185-238-static.hfc.comcastbusiness.net
