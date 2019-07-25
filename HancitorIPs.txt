@@ -790,3 +790,26 @@
 
 # 7/3/2019 run
 50.238.185.238 # 50-238-185-238-static.hfc.comcastbusiness.net
+
+# 7/22/2019 run
+70.61.151.242 # rrcs-70-61-151-242.central.biz.rr.com
+75.176.196.60 # 075-176-196-060.res.spectrum.com
+12.16.179.34 # (NXDOMAIN)
+64.237.19.234 # 64-237-19-234.client.mchsi.com
+98.243.93.78 # c-98-243-93-78.hsd1.mi.comcast.net
+72.68.134.154 # static-72-68-134-154.nycmny.fios.verizon.net
+24.140.156.132 # mail.dyerroche.com
+173.9.179.54 # 173-9-179-54-miami.txt.hfc.comcastbusiness.net
+108.54.84.11 # static-108-54-84-11.nycmny.fios.verizon.net
+173.166.15.157 # 173-166-15-157-newengland.hfc.comcastbusiness.net
+12.164.17.46 # (NXDOMAIN)
+
+# 7/23/2019 run
+199.102.137.55 # (NXDOMAIN)
+173.11.201.42 # 173-11-201-42-houston.txt.hfc.comcastbusiness.net
+198.0.70.25 # 198-0-70-25-static.hfc.comcastbusiness.net
+50.197.48.170 # 50-197-48-170-static.hfc.comcastbusiness.net
+161.77.39.178 # (NXDOMAIN)
+50.238.238.166 # 50-238-238-166-static.hfc.comcastbusiness.net
+68.22.111.2 # mail.dist159.com
+71.95.177.194 # 71-95-177-194.static.mtpk.ca.charter.com
