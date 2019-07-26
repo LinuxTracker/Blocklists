@@ -813,3 +813,10 @@
 50.238.238.166 # 50-238-238-166-static.hfc.comcastbusiness.net
 68.22.111.2 # mail.dist159.com
 71.95.177.194 # 71-95-177-194.static.mtpk.ca.charter.com
+
+# 7/25/2019 run
+98.190.52.42 # wsip-98-190-52-42.hr.hr.cox.net
+152.179.144.130 # surgerypartners-gw.customer.alter.net
+24.176.191.66 # 24-176-191-66.static.reno.nv.charter.com
+108.185.81.164 # cpe-108-185-81-164.socal.res.rr.com
+162.216.146.106 # (NXDOMAIN)
