@@ -683,7 +683,7 @@
 208.114.128.19 # xplr-208-114-128-19.xplornet.com
 
 # 10/29/2018 run
-205.204.44.18 # (NXDOMAIN)
+205.204.44.18 # FirstDigital Communications AS13415
 69.15.4.50 # 69-15-4-50.customerip.birch.net
 174.82.132.169 # 174-082-132-169.dhcp.chtrptr.net
 173.167.51.106 # 173-167-51-106-cpennsylvania.hfc.comcastbusiness.net
@@ -699,10 +699,10 @@
 
 # 12/4/2018 run
 69.169.160.52 # 69.169.160.52.static.ip.veracitynetworks.com
-97.75.167.234 # (NXDOMAIN)
-205.178.22.99 # (NXDOMAIN)
+97.75.167.234 # Off Campus Telecom AS29933
+205.178.22.99 # RCN Corp AS6079
 69.92.125.210 # 69-92-125-210.cpe.cableone.net
-50.126.48.178 # (NXDOMAIN)
+50.126.48.178 # Frontier Communications (Ohio) AS5650
 74.73.49.59 # cpe-74-73-49-59.nyc.res.rr.com
 
 # 12/5/2018 run
@@ -712,7 +712,7 @@
 98.115.213.30 # static-98-115-213-30.phlapa.fios.verizon.net
 
 # 12/6/2018 run
-162.219.92.194 # (NXDOMAIN)
+162.219.92.194 # Navajo Tribal Utility Authority AS20228
 
 # 12/10/2018 run
 216.201.151.44 # mail.griffingnetwork.com
@@ -741,11 +741,11 @@
 63.88.12.34 # host34.kwcps.k12.va.us
 
 # 1/22/2019 run
-205.206.204.76 # (NXDOMAIN)
-12.204.86.58 # (NXDOMAIN)
+205.206.204.76 # Telius (Alberta) AS852
+12.204.86.58 # AT&T (TN) AS7018
 207.162.190.11 # fttu-190-11.vci.net
-97.105.164.46 # (NXDOMAIN)
-107.84.0.147 # (NXDOMAIN)
+97.105.164.46 # Charter (TX) AS11427
+107.84.0.147 # AT&T Mobile (GA/WA) AS20057
 
 # 1/23/2019 run
 208.105.238.42 # barracuda.arcon.org
@@ -753,7 +753,7 @@
 
 # 1/28/2019 run
 96.38.88.18 # 96-38-88-18.static.jcsn.tn.charter.com
-206.81.171.229 # (NXDOMAIN)
+206.81.171.229 # Systems Solutions of Paducah KY AS22002
 
 # 2/5/2019 run
 50.251.73.129 # 50-251-73-129-static.hfc.comcastbusiness.net
@@ -762,7 +762,7 @@
 162.248.4.247 # server.reganam.com
 
 # 4/2/2019 run
-66.231.236.122 # (NXDOMAIN)
+66.231.236.122 # Telefonica Data Puerto Rico AS22364
 72.24.30.206 # 72-24-30-206.cpe.cableone.net
 73.217.104.162 # c-73-217-104-162.hsd1.co.comcast.net
 71.45.195.77 # 071-045-195-077.biz.spectrum.com
@@ -770,7 +770,7 @@
 
 # 4/3/2019 run
 172.91.194.250 # cpe-172-91-194-250.socal.res.rr.com
-12.198.46.226 # (NXDOMAIN)
+12.198.46.226 # AT&T (MS) AS7018
 50.236.92.146 # 50-236-92-146-static.hfc.comcastbusiness.net
 
 # 4/10/2019 run
@@ -781,11 +781,11 @@
 
 # 5/21/2019 run
 67.76.178.139 # nj-67-76-178-139.sta.embarqhsd.net
-192.230.171.163 # (NXDOMAIN)
+192.230.171.163 # 3 Rivers Telephone Coop (MT) AS19605
 
 # 7/1/2019 run
 50.241.196.137 # mail.tpainmg.com
-50.238.244.138 # (NXDOMAIN)
+50.238.244.138 # Comcast (MI) AS7922
 174.60.17.241 # c-174-60-17-241.hsd1.pa.comcast.net
 
 # 7/3/2019 run
@@ -794,7 +794,7 @@
 # 7/22/2019 run
 70.61.151.242 # rrcs-70-61-151-242.central.biz.rr.com
 75.176.196.60 # 075-176-196-060.res.spectrum.com
-12.16.179.34 # (NXDOMAIN)
+12.16.179.34 # AT&T (KS) AS7018
 64.237.19.234 # 64-237-19-234.client.mchsi.com
 98.243.93.78 # c-98-243-93-78.hsd1.mi.comcast.net
 72.68.134.154 # static-72-68-134-154.nycmny.fios.verizon.net
@@ -802,14 +802,14 @@
 173.9.179.54 # 173-9-179-54-miami.txt.hfc.comcastbusiness.net
 108.54.84.11 # static-108-54-84-11.nycmny.fios.verizon.net
 173.166.15.157 # 173-166-15-157-newengland.hfc.comcastbusiness.net
-12.164.17.46 # (NXDOMAIN)
+12.164.17.46 # AT&T (TN) AS7018
 
 # 7/23/2019 run
-199.102.137.55 # (NXDOMAIN)
+199.102.137.55 # Cross Development/Montgomery (TX) AS11135
 173.11.201.42 # 173-11-201-42-houston.txt.hfc.comcastbusiness.net
 198.0.70.25 # 198-0-70-25-static.hfc.comcastbusiness.net
 50.197.48.170 # 50-197-48-170-static.hfc.comcastbusiness.net
-161.77.39.178 # (NXDOMAIN)
+161.77.39.178 # Crocker Comm (MA) AS7849
 50.238.238.166 # 50-238-238-166-static.hfc.comcastbusiness.net
 68.22.111.2 # mail.dist159.com
 71.95.177.194 # 71-95-177-194.static.mtpk.ca.charter.com
@@ -819,4 +819,4 @@
 152.179.144.130 # surgerypartners-gw.customer.alter.net
 24.176.191.66 # 24-176-191-66.static.reno.nv.charter.com
 108.185.81.164 # cpe-108-185-81-164.socal.res.rr.com
-162.216.146.106 # (NXDOMAIN)
+162.216.146.106 # M2 Connections (AL) AS29760
