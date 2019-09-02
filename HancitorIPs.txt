@@ -820,3 +820,6 @@
 24.176.191.66 # 24-176-191-66.static.reno.nv.charter.com
 108.185.81.164 # cpe-108-185-81-164.socal.res.rr.com
 162.216.146.106 # M2 Connections (AL) AS29760
+
+# 8/29/2019 run
+50.77.247.130 # 50-77-247-130-static.hfc.comcastbusiness.net
