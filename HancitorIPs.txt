@@ -823,3 +823,7 @@
 
 # 8/29/2019 run
 50.77.247.130 # 50-77-247-130-static.hfc.comcastbusiness.net
+
+# 10/8/2019 run
+68.40.200.211 # c-68-40-200-211.hsd1.mi.comcast.net
+50.255.199.149 # 50-255-199-149-static.hfc.comcastbusiness.net
