@@ -827,3 +827,7 @@
 # 10/8/2019 run
 68.40.200.211 # c-68-40-200-211.hsd1.mi.comcast.net
 50.255.199.149 # 50-255-199-149-static.hfc.comcastbusiness.net
+
+# 10/16/2019 run
+65.181.54.170 # (NXDOMAIN)
+162.212.89.158 # (NXDOMAIN)
