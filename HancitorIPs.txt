@@ -838,3 +838,6 @@
 199.48.78.114 # (NXDOMAIN)
 50.252.19.58 # 50-252-19-58-static.hfc.comcastbusiness.net
 73.154.113.150 # c-73-154-113-150.hsd1.wv.comcast.net
+
+# 10/23/2019 run
+67.214.225.250 # (NXDOMAIN)
