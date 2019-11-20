@@ -858,3 +858,8 @@
 104.173.28.204 # cpe-104-173-28-204.socal.res.rr.com
 104.175.16.224 # cpe-104-175-16-224.socal.res.rr.com
 68.191.199.102 # 68-191-199-102.static.stls.mo.charter.com
+
+# 11/19/2019 run
+24.35.137.143 # 24-35-137-143.fidnet.com
+96.94.62.89 # 96-94-62-89-static.hfc.comcastbusiness.net
+74.120.40.18 # mail2.trujilloandsons.com
