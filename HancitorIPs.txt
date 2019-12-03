@@ -863,3 +863,6 @@
 24.35.137.143 # 24-35-137-143.fidnet.com
 96.94.62.89 # 96-94-62-89-static.hfc.comcastbusiness.net
 74.120.40.18 # mail2.trujilloandsons.com
+
+# 12/2/2019 run
+174.47.107.18 # 174-47-107-18.static.ctl.one
